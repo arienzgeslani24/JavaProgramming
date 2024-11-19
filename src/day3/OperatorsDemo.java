@@ -57,9 +57,7 @@ public class OperatorsDemo {
 		System.out.println(b1 || b2); // true
 		System.out.println((10<20) && (20>10)); // true
 
-		// 4) Increment & Decrement operators ++ --
-		
-		
+		// 4) Increment & Decrement operators ++ --	
 
 		// 5) Assignment = += -= *= /= %=
 
